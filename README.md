@@ -1,0 +1,2 @@
+# zodiacNA
+zodiac sign assignment
